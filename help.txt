@@ -1,0 +1,9 @@
+Name Arundeep Singh
+A01084883
+Cameron Wark
+
+The assignment is 100 percent  complete and working
+ To run the assignment the default mode is name of the pokemon so set the first parameter as pokemon and the second parameter as the name of the pokemon
+ The mode can also be changed to txt file .
+
+ All the exceptions have been handled nicely .
